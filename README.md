@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Pavel. I`m a a data analyst. I graduated from Yandex Practicum. At the moment I am engaged in project activities. I am trying to develop in the field of analytics and I want to achieve high results.
-- 🌱 My stack: Python(pandas, matplotlib, seaborn, plotly, numpy, scipy and other), PostgreSQL. Dashboards: DataLens, Power BI, Tableau. Basic knowledge HTML. Most often I do work in Jupiter notebook.
-- 💞️ I’m looking to collaborate on product analytics. I will be glad to any suggestions regarding game dev analytics.
-- 📫 How to reach me: Telegram - @matveywonder 
+- 👋 Hi, my name is Pavel. I`m a a data analyst. I graduated from Yandex Practicum. Currently, I am involved in project activities. I'm striving to advance in the field of analytics and aiming for high achievements.
+- 🌱 My tech stack includes: Python(pandas, matplotlib, seaborn, plotly, numpy, scipy and other), PostgreSQL. For dashboards: DataLens, Power BI, Tableau. I have basic knowledge HTML.  Most of my work is done in Jupiter notebook.
+- 💞️ I'm open to collaborating on product analytics and would welcome any suggestions related to game development analytics.
+- 📫 You can reach me via Telegram at @matveywonder.
 
 <!---
 matveywonder/matveywonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
